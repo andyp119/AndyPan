@@ -13,5 +13,6 @@ public class main {
         if (a==67) {
             System.out.println("67");
         }
+        System.out.println("commit");
     }
 }
