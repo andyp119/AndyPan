@@ -10,5 +10,8 @@ public class main {
         System.out.println(a);
 
         System.out.println(b);
+        if (a==67) {
+            System.out.println("67");
+        }
     }
 }
