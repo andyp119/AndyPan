@@ -1,4 +1,4 @@
-public class main {
+public class Home {
     public static void main(String[] args) {
         System.out.println("2/3");
         System.out.println("67");
@@ -14,5 +14,6 @@ public class main {
             System.out.println("67");
         }
         System.out.println("commit");
+        System.out.println("This was printed from home");
     }
 }
