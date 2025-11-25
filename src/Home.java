@@ -15,5 +15,12 @@ public class Home {
         }
         System.out.println("commit");
         System.out.println("This was printed from home");
+
+        int counter = 0;
+        while (counter >= 0) {
+            counter++;
+        }
+        System.out.println("final counter: " + counter);
+
     }
 }
